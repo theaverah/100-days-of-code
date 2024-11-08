@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0:
+### Day 1:
 
 **Today's Progress**: 
 
@@ -17,7 +17,7 @@
 **Link(s) to work**: 
 
 
-### Day 1: 
+### Day 2: 
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
